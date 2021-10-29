@@ -17,14 +17,15 @@ but in 2018 it jumped to 84% which shows that there is potential in it and it wo
 
 Another aspect that we considered during coding is the efficiency of the code. Which means how efficient and fast the 
 code performs to give out the results. We refactored the code and included a MsgBox to show the time it took to ran,
-images attached for reference. My code ran for 0.675 for both years which is a little high then the original code which 
-depends on individual computer capability.
+images attached for reference. My code ran for 0.07 for both years. 
 
 ## 2017 Analysis
-![image_1](https://user-images.githubusercontent.com/91965321/139152942-f3dc56fc-63f8-4502-bfb9-29a5fc430142.PNG)
+![image_1](https://user-images.githubusercontent.com/91965321/139509982-02cbeae7-2978-4589-988c-2f0e7fee96ef.PNG)
+
 
 ## 2018 Analysis
-![image_2](https://user-images.githubusercontent.com/91965321/139153038-1ebb5e9f-df7c-4a6d-9c03-15a13f9e96e0.PNG)
+![image_2](https://user-images.githubusercontent.com/91965321/139509999-7c852661-7d6a-4c30-945f-4b433eadfafb.PNG)
+
 
 ## Summary
 If we talk about advantages of refactoring the code, then its that refactoring gives out better quality code. It's
