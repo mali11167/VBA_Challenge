@@ -20,11 +20,13 @@ code performs to give out the results. We refactored the code and included a Msg
 images attached for reference. My code ran for 0.07 for both years. 
 
 ## 2017 Analysis
-![image_1](https://user-images.githubusercontent.com/91965321/139509982-02cbeae7-2978-4589-988c-2f0e7fee96ef.PNG)
+![image_1](https://user-images.githubusercontent.com/91965321/139556065-8af185d9-10ed-4da8-84f9-c8c5c5b75183.PNG)
+
 
 
 ## 2018 Analysis
-![image_2](https://user-images.githubusercontent.com/91965321/139509999-7c852661-7d6a-4c30-945f-4b433eadfafb.PNG)
+![image_2](https://user-images.githubusercontent.com/91965321/139556071-602e6985-0606-4d8f-b622-c89d5879ca71.PNG)
+
 
 
 ## Summary
